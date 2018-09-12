@@ -77,4 +77,4 @@ Welcome!
 [license]: https://github.com/evennia/evennia/wiki/Licensing
 [group]: https://groups.google.com/forum/#!forum/evennia
 [chat]: http://webchat.freenode.net/?channels=evennia&uio=MT1mYWxzZSY5PXRydWUmMTE9MTk1JjEyPXRydWUbb
-[wikimudpage]: http://en.wikipedia.org/wiki/MUD
+[wikimudpage]: http://en.wikipedia.org/wiki/MUD.
